@@ -20,6 +20,7 @@ build/
 coverage/
 .next/
 .cache/
+drizzle/
 
 # Editor directories
 .vscode/
